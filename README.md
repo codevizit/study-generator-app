@@ -50,5 +50,5 @@ An AI-powered educational tool designed to assist students and lifelong learners
 
 - Streamlit manages the user interface and interaction, allowing real-time generation with a few clicks.
 
-![Screenshot](https://i.imgur.com/screenshot1.png)
+![Study Generator App Screenshot](images/screenshot1.png)
 
