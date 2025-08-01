@@ -36,16 +36,19 @@ An AI-powered educational tool designed to assist students and lifelong learners
    cd study-generator-app
 --- 
 ### How It Works
-The input text is sent to multiple prompt chains running in parallel:
+- The input text is sent to multiple prompt chains running in parallel:
 
-Notes chain summarizes and simplifies the text.
+- Notes chain summarizes and simplifies the text.
 
-Quiz chain generates relevant Q&A pairs.
+- Quiz chain generates relevant Q&A pairs.
 
-Flashcards chain extracts key concepts validated by Pydantic models.
+- Flashcards chain extracts key concepts validated by Pydantic models.
 
-Summary chain creates a concise overview.
+- Summary chain creates a concise overview.
 
-The results are merged and presented in a clean format.
+- The results are merged and presented in a clean format.
 
-Streamlit manages the user interface and interaction, allowing real-time generation with a few clicks.
+- Streamlit manages the user interface and interaction, allowing real-time generation with a few clicks.
+
+![Screenshot](https://i.imgur.com/screenshot1.png)
+
